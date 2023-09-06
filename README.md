@@ -29,3 +29,7 @@ My primary objectives for this project are:
 ## Conclusion
 
 This Simon Game project serves as my practical playground for learning jQuery. I'm excited to dive into the world of interactive web development and explore the capabilities of this powerful library. As I progress through the project, I'll document my learnings and discoveries to solidify my understanding of jQuery and JavaScript. Happy coding!
+
+
+## Visit the site:
+https://nikkittaa.github.io/Simon-Game/
